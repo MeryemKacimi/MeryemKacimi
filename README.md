@@ -49,7 +49,7 @@
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/><br/>VS Code</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/><br/>GCP</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="40"/><br/>NetBeans</td>
+
   </tr>
 </table>
 
